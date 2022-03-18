@@ -13,7 +13,7 @@ public class BasicWeek {
 
     // printing out the days
     public void printDays() {
-        System.out.println( day_1 +" "+ day_2 + " "+day_3+" "+ day_4+ " "+day_5+" "+ day_6+ " "+day_7/* Insert string to be printed out */ );   
+        System.out.println("the basic days of the week are:" day_1 +" "+ day_2 + " "+day_3+" "+ day_4+ " "+day_5+" "+ day_6+ " "+day_7);   
          
     }
 }

@@ -20,6 +20,6 @@ public class AdvancedWeek {
 (index + 3) + ": " + day_4 + ",\n" +
 (index + 4) + ": " + day_5 + ",\n" +
 (index + 5) + ": " + day_6 + ",\n" +
-(index + 6) + ": " + day_7 + “.”/* Insert string to be printed out */ );
+(index + 6) + ": " + day_7 + “.”);
     }
 }
